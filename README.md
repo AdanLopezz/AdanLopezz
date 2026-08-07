@@ -1,8 +1,10 @@
-<div align= "center">
 <h1 align="center"> Hola, Soy Adán López 👋 </h1>
+
+<div align="center">
+  <img src="https://github.com/AdanLopezz/AdanLopezz/raw/7e3b1f70b3376e0fcce802b88b32a2439d2ae6a2/Banner.png" alt="Banner de Adán López">
 </div>
 
-<img src="[https://github.com/AdanLopezz/AdanLopezz/blob/7e3b1f70b3376e0fcce802b88b32a2439d2ae6a2/Banner.png](https://github.com/AdanLopezz/AdanLopezz/blob/7e3b1f70b3376e0fcce802b88b32a2439d2ae6a2/Banner.png)">
+<br>
 
 <!--
 **AdanLopezz/AdanLopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
