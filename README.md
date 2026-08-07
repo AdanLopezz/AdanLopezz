@@ -1,6 +1,6 @@
 ## Hola, Soy Adán 👋
 
-<img src="https://drive.google.com/file/d/1Pm5D22GLDQgYHPwgS535ZBneMYd8NF9u/view?usp=sharing">
+<img src="https://github.com/AdanLopezz/AdanLopezz/blob/7e3b1f70b3376e0fcce802b88b32a2439d2ae6a2/Banner.png">
 <!--
 **AdanLopezz/AdanLopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
