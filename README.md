@@ -1,3 +1,6 @@
+<div align= "center">
+<h1 align="center"> Hola, Soy Adán 👋 </h1>
+</div>
 ## Hola, Soy Adán 👋
 
 <img src="https://github.com/AdanLopezz/AdanLopezz/blob/7e3b1f70b3376e0fcce802b88b32a2439d2ae6a2/Banner.png">
